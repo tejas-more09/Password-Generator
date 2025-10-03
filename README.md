@@ -12,7 +12,7 @@ It generates strong random passwords and lets you copy them with one click.
 - Responsive and modern UI  
 
 ## 📸 Demo
-![App Screenshot](img/demo.png)
+![App Screenshot](img/result.png)
 
 ## 🛠️ Technologies Used
 - HTML5  
