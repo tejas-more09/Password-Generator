@@ -27,7 +27,7 @@ It generates strong random passwords and lets you copy them with one click.
 
 ---
 
-### 7. **Folder Structure (Optional)**
+## Folder Structure<br>
 Show project layout.  
 ```markdown
 ## 📂 Project Structure
